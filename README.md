@@ -69,9 +69,6 @@ Result: 1.292 USD
 - **Invalid Amount**: Input validation ensures that the amount is a positive integer or decimal value.
 - **API Errors**: Handles potential issues such as network failures or invalid API keys.
 
-### License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ### Contributions
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the application.
 
